@@ -8,7 +8,7 @@ In order to build your own map for WorkAdventure, you need:
 
 - the [Tiled editor](https://www.mapeditor.org/) software
 - "tiles" (i.e. images) to create your map (this starter kit provides a good default tileset for offices)
-- a web-server to serve your map (this starter kit proposes to use Github static pages as a web-server which is both free and performant)
+- a web-server to serve your map (this starter kit proposes to use Github stsatic pages as a web-server which is both free and performant)
 
 ## Getting started
 
